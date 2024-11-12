@@ -1,4 +1,5 @@
-![xm4](https://user-images.githubusercontent.com/48596548/157202825-33186e36-1170-4083-8eaa-ec264fe17713.png)
+![盯](https://github.com/user-attachments/assets/5ef47b1a-9090-4aa0-a7d9-7bc7410b998a)
+
 - 👋 Hi, I’m @lixiaofanqaq
 - 🌱 Learning Java Python
 - 📫 How to reach me? Email: xiaofanfc@aliyun.com
