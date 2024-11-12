@@ -3,8 +3,8 @@
 - 🌱 Learning Java Python
 - 📫 How to reach me? Email: xiaofanfc@aliyun.com
 
-[![lixiaofanqaq](https://github-readme-stats.vercel.app/api?username=Lorin-github)](https://github.com/anuraghazra/github-readme-stats)
-[![lixiaofanqaq](https://github-profile-trophy.vercel.app/?username=Lorin-github)](https://github.com/ryo-ma/github-profile-trophy)
+[![lixiaofanqaq](https://github-readme-stats.vercel.app/api?username=lixiaofanqaq)](https://github.com/anuraghazra/github-readme-stats)
+[![lixiaofanqaq](https://github-profile-trophy.vercel.app/?username=lixiaofanqaq)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!---
